@@ -1,4 +1,4 @@
-# AB-Testing-SQL-Python-Tableau-Project
+# AB Testing SQL Python Tableau Project
 This repository contains a complete end-to-end A/B testing analysis pipeline combining SQL, Python, and Tableau, built around a real Kaggle dataset comparing two marketing campaigns (Control vs. Test).
 
 ![AB Testing Performance Dashboard](https://github.com/user-attachments/assets/f6fcaa79-b650-4e20-bcc2-f1a2488257c9)
