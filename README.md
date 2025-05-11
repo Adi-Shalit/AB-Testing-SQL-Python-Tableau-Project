@@ -15,7 +15,7 @@ The purpose of this project is to **analyze and compare the performance of two m
 
 - **Step 1**: `AB Testing Preparation and t-Test Python.ipynb` – Jupyter Notebook with data cleaning, exploration, and hypothesis testing using t-tests.
 - `AB_data_for_Analysis.csv` – Merged and cleaned dataset used for SQL queries and Tableau dashboard.
-- **Step 2**: `AB Testing SQL Analysis.ipynb` – SQL analysis using Jupyter Notebook on the cleaned dataset using `pandasql` to extract KPIs and conversion metrics.
+- **Step 2**: `AB Testing SQL Analysis.ipynb` – SQL analysis in Jupyter Notebook on the cleaned dataset using `pandasql` to extract KPIs and conversion metrics.
 - **Step 3**: `AB Testing Performance Dashboard.png` – Tableau visualization on the cleaned dataset comparing campaign performance over time and across metrics.
   [link to the Tableau Public dashboard](https://public.tableau.com/app/profile/adi.shalit/viz/ABTestingPerformance/ABTesting?publish=yes)
 - `control_group.csv` – Raw dataset of the control group.
