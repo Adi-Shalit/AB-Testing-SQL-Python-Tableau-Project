@@ -35,7 +35,7 @@ The purpose of this project is to **analyze and compare the performance of two m
 ## Key Project Features
 
 - Data cleaning and validation of raw A/B test datasets  
-- Hypothesis testing (two-sample t-tests) on conversion rates  
+- Hypothesis testing (two-sample t-tests) on purchases
 - SQL queries for campaign KPI aggregation  
 - Tableau dashboard showcasing trends, comparisons, and metrics
 
